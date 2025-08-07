@@ -8,3 +8,4 @@ Material del curso de Posgrado de Experimentación y Métododos Estadisticos en 
   + Crear repositorio 
   + Sincronizar nube y computadora 
   + Credenciales Git
+
