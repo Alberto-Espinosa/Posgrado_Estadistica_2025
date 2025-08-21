@@ -8,3 +8,14 @@ Material del curso de Posgrado de Experimentación y Métododos Estadisticos en 
   + Crear repositorio 
   + Sincronizar nube y computadora 
   + Credenciales Git
+  
+**Semana 2** (14/08/2025): 
+  + Datos de computadora a r en cvs 
+  + Ver tablas 
+  + Graficas (Barras)
+  
+**Semana 2** (21/08/2025):  
+  + Tablas de datos
+  + Datos de url a R
+  + Graficas de bloxplot
+  + Compilacion de datos en pdf y htm
