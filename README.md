@@ -14,8 +14,18 @@ Material del curso de Posgrado de Experimentación y Métododos Estadisticos en 
   + Ver tablas 
   + Graficas (Barras)
   
-**Semana 2** (21/08/2025):  
+**Semana 3** (21/08/2025):  
   + Tablas de datos
   + Datos de url a R
   + Graficas de bloxplot
-  + Compilacion de datos en pdf y htm
+  + Compilacion de datos en pdf y html
+  
+**Semana 4** (28/08/2025):
+  + Importar datos csv
+  + Creación de factores
+  + Calculos de media, desviación estandar y varianza
+  + Creación de boxplot´s 
+  + Pruebas y graficos de normalidad
+  + Prueba de homogoneidad
+  + Pruebas de t (2 y 1 cola)
+  + Crear funcion para medir el efecto 
