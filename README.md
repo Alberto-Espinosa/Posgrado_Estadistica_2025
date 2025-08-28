@@ -11,7 +11,7 @@ Material del curso de Posgrado de Experimentación y Métododos Estadisticos en 
   
 **Semana 2** (14/08/2025): 
   + Datos de computadora a r en cvs 
-  + Ver tablas 
+  + Ver tablas  
   + Graficas (Barras)
   
 **Semana 3** (21/08/2025):  
