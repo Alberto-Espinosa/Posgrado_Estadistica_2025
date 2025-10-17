@@ -28,4 +28,23 @@ Material del curso de Posgrado de Experimentación y Métododos Estadisticos en 
   + Pruebas y graficos de normalidad
   + Prueba de homogoneidad
   + Pruebas de t (2 y 1 cola)
-  + Crear funcion para medir el efecto 
+  + Crear funcion para medir el efecto
+
+**Semana 5** (9/09/2025):  
+  + Caluclo de media movil
+  + Eliminar facores que no existen
+  + Plantemiento del problema e hipotesis
+  + Prueba de t
+  + Muestras independientes y depensientes
+
+**Semana 6** (11/09/2025):  
+  + Grafica de violín
+  + Analisis de varianza
+  + Prueba de Tukey
+
+**Semana 7** (18/09/2025):  
+  + Prueba de Barlett
+  + Diagrama de caja
+
+**Semana 8** (25/09/2025):  
+  + Regresión líneal simple 
